@@ -1,0 +1,12 @@
+- Pastikan versi php dan composernya yang terbaru
+- Jalankan Composer install : composer install
+- Jalankan migrasinya : php artisan migrate
+- Jalankan seedernya : php artisan db:seed
+- Pastikan composer dan php versinya sesuai
+- Laravel nya laravel 10
+- Jika fungsi import tidak berjalan, jalankan : composer require phpoffice/phpspreadsheet
+- Lalu jalankan : composer require maatwebsite/excel
+
+
+Create by   : Steven Arsandi
+Last Update : 29-12-2023
