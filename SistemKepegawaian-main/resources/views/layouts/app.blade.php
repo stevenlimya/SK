@@ -76,9 +76,9 @@
                 <div class="sidebar-brand-icon rotate-n-30">
                     <!-- <i class="fab fa-slack mt-1"></i>  -->
                     <!-- <img scr="wb-group.jpg"/> -->
-                    <img src="{{ url('assets/img/logosbm.png') }}" alt="" height="40px" class="icon">
+                    <img src="{{ url('assets/img/banelicd.png') }}" alt="" height="40px" class="icon">
                 </div>
-                <div class="sidebar-brand-text ml-2">PT Sumber Ban Makmur</div>
+                <div class="sidebar-brand-text ml-2">PT ELICD</div>
             </a>
 
             
@@ -292,7 +292,7 @@
             <footer class="sticky-footer bg-white mb-3">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; PT. Sumber Ban Makmur 2023</span>
+                        <span>Copyright &copy; PT. ELICD 2025</span>
                     </div>
                 </div>
             </footer>
