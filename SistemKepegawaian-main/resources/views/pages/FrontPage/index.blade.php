@@ -134,7 +134,7 @@
         </div>
         <div class="col-lg-6">
           <!-- Insert an image related to your company -->
-          <img src="{{ url('assets/img/sbm.png') }}" class="img-fluid" alt="Company Image">
+          <img src="{{ url('assets/img/banelicd.png') }}" class="img-fluid" alt="Company Image">
         </div>
       </div>
     </div>
@@ -254,9 +254,9 @@
   <!-- Footer -->
   <footer class="footer">
     <div class="container ml-3 text-center">
-      <img src="{{ url('assets/img/wa.png') }}" alt="whatsapp" width="20px"> +628 98732933
-      <img src="{{ url('assets/img/hp.png') }}" alt="phone" width="30px"> 1141564
-      <p>&copy; 2023 PT Sumber Ban Makmur. All Rights Reserved.</p>
+      <img src="{{ url('assets/img/wa.png') }}" alt="whatsapp" width="20px"> +628 561246123
+      <img src="{{ url('assets/img/hp.png') }}" alt="phone" width="30px"> 00551358
+      <p>&copy; 2025 PT ELICD. All Rights Reserved.</p>
     </div>
   </footer>
 

@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>PT Sumberban Makmur - Dashboard</title>
+    <title>PT ELICD - Dashboard</title>
     <style>
 .sidebar {
   width: 200px;
