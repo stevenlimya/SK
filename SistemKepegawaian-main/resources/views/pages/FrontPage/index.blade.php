@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PT Sumber Ban Makmur</title>
+  <title>PT ELICD</title>
   <style>
     .hero {
   background-color: rgb(0,168,250);
@@ -117,9 +117,9 @@
   <!-- Hero Section -->
   <section id="home" class="hero">
     <div class="container text-center" >
-      <img src="{{ url('assets/img/logosbm.png') }}" alt="" class="icon">
+      <img src="{{ url('assets/img/banelicd.png') }}" alt="" class="icon">
       <h2>Selamat Datang Di Website</h2>
-      <h1>PT Sumber Ban Makmur</h1>
+      <h1>PT ELICD</h1>
     </div>
   </section>
   <div class="bodypage" style="box-shadow: inset 0 0 2000px rgba(150, 250, 250, .3)">
@@ -129,8 +129,8 @@
       <div class="row">
         <div class="judul"><h2>Tentang Kami</h2><br></div>
         <div class="col-lg-6">
-          <p>PT Sumber Ban Makmur adalah sebuah perusahaan yang bergerak dalam penjualan ban dengan merek terkemuka seperti Hankook. Perusahaan ini berdiri sejak tanggal 12 Januari 2021 dan memiliki lokasi yang strategis di Jl. Letjen Harun Sohar Tanjung Api Api. Sejak awal berdirinya, PT Sumber Ban Makmur telah menjadi salah satu destinasi utama bagi konsumen yang mencari ban berkualitas tinggi dari merek terpercaya seperti Hankook.</p>
-          <p>Dengan komitmen untuk menyediakan produk berkualitas dan layanan yang prima kepada pelanggan, PT Sumber Ban Makmur terus berupaya memenuhi kebutuhan akan ban yang handal untuk berbagai jenis kendaraan. Dengan lokasi yang mudah diakses dan reputasi yang solid dalam industri ini, PT Sumber Ban Makmur menjadi pilihan yang tepat bagi para pengguna kendaraan yang membutuhkan ban berkualitas tinggi dari merek Hankook.</p>
+          <p>PT ELICD adalah perusahaan yang bergerak di bidang distribusi dan penjualan ban kendaraan bermotor, mulai dari mobil penumpang hingga kendaraan niaga dan alat berat. Berdiri sejak tahun 2012, PT ELICD berkomitmen untuk menyediakan produk ban berkualitas tinggi yang mendukung keselamatan, kenyamanan, dan performa kendaraan pelanggan kami di seluruh Indonesia.</p>
+          <p>Kami bekerja sama dengan berbagai merek ternama seperti Michelin, Bridgestone, GT Radial, Dunlop, dan lainnya, untuk memastikan pelanggan mendapatkan pilihan terbaik sesuai kebutuhan mereka. Dengan jaringan distribusi yang luas, layanan pelanggan yang responsif, dan tim teknis yang profesional, PT ELICD telah dipercaya oleh ribuan pelanggan individu maupun perusahaan fleet.</p>
         </div>
         <div class="col-lg-6">
           <!-- Insert an image related to your company -->
