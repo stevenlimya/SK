@@ -79,7 +79,7 @@
 
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg bg-primary navbar-dark" style="box-shadow: inset 0 0 2000px rgba(120, 250, 250, .5)">
-    <a class="navbar-brand px-5" href="#">PT Sumber Ban Makmur</a>
+    <a class="navbar-brand px-5" href="#">PT ELICD</a>
     <div class="container" id="container">
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
