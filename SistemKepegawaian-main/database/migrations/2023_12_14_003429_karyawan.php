@@ -21,6 +21,7 @@ return new class extends Migration
             $table->date('tanggallahir')->nullable();
             $table->string('notelepon',100)->nullable();
             $table->string('ktp',100)->nullable();
+            $table->string('nik',100)->nullable();
             $table->string('email',100)->nullable();
             $table->bigInteger('created_by')->nullable();
             $table->bigInteger('updated_by')->nullable();
