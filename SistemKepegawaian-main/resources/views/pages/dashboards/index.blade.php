@@ -14,7 +14,9 @@
             <section>
                 <div class="row">
                     <div class="col-lg-6">
-                        <p>PT ELICD adalah perusahaan yang fokus pada distribusi dan penjualan ban berkualitas dengan merek-merek ternama seperti Hankook. Berdiri sejak 12 Januari 2021, perusahaan ini berlokasi strategis di Jl. Letjen Harun Sohar, kawasan Tanjung Api Api. Sejak awal pendiriannya, PT ELICD telah dikenal sebagai tempat terpercaya bagi pelanggan yang menginginkan produk ban unggulan dari brand ternama.</p>
+                        <p>Sejak berdiri pada 12 Januari 2012, PT ELICD telah memantapkan diri sebagai perusahaan terpercaya dalam bidang distribusi dan penjualan ban berkualitas tinggi. Berlokasi strategis di kawasan industri Tanjung Raya, tepatnya di Jl. Letjen H. S. Wiratama, perusahaan ini menjadi mitra utama bagi pelanggan yang mencari produk ban unggulan dari merek-merek ternama seperti Hankook.
+
+Dengan komitmen terhadap kualitas dan pelayanan profesional, PT ELICD terus tumbuh dan berkembang, memperluas jangkauan distribusi di berbagai wilayah Indonesia. Didukung oleh tim yang berpengalaman dan sistem logistik yang efisien, PT ELICD bertekad menjadi pilihan utama bagi pelanggan ritel maupun korporat dalam memenuhi kebutuhan ban berstandar internasional.</p>
 
                         <h2>Visi dan Misi</h2>
                         <hr style="width: 600px;">
